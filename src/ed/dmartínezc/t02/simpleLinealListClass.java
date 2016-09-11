@@ -88,7 +88,7 @@ public class simpleLinealListClass<T> {
                 aux = aux.next;
             }
         }
-        System.out.print("🙃");
+        System.out.print("🙃\n");
     }
     
 }
