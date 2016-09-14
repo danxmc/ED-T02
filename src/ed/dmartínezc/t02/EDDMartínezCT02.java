@@ -25,6 +25,8 @@ public class EDDMartínezCT02 {
         charList.eraseFirst();
         charList.eraseLast();
         charList.showList();
+        charList.eraseNode('A');
+        charList.showList();
         
         simpleLinealListClass doubleList = new simpleLinealListClass();
         doubleList.insertFirst(10.5);
